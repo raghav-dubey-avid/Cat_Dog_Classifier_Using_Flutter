@@ -12,7 +12,7 @@ Check the screenshots which are provided below:
 
 
 
-https://github.com/raghav-dubey-avid/Cat_Dog_Classifier_Using_Flutter/blob/9a0feb9c43580cbbe6598abe8cf1121f934c29c9/screenshot_Cat_dog_classifier/20210425_224205.jpg
+![alt text](https://github.com/raghav-dubey-avid/Cat_Dog_Classifier_Using_Flutter/blob/9a0feb9c43580cbbe6598abe8cf1121f934c29c9/screenshot_Cat_dog_classifier/20210425_224205.jpg)
 
 
 
