@@ -15,6 +15,16 @@ Check the screenshots which are provided below:
 ![alt text](https://github.com/raghav-dubey-avid/Cat_Dog_Classifier_Using_Flutter/blob/9a0feb9c43580cbbe6598abe8cf1121f934c29c9/screenshot_Cat_dog_classifier/20210425_224205.jpg)
 
 
+![alt text](https://github.com/raghav-dubey-avid/Cat_Dog_Classifier_Using_Flutter/blob/2b35419f7198013dc226291bf3f2cdc71d70ac62/screenshot_Cat_dog_classifier/Screenshot_20210425-223025.jpg)
+
+
+
+![alt text](https://github.com/raghav-dubey-avid/Cat_Dog_Classifier_Using_Flutter/blob/2b35419f7198013dc226291bf3f2cdc71d70ac62/screenshot_Cat_dog_classifier/Screenshot_20210425-223445_Camera.jpg)
+
+
+
+
+![alt text](https://github.com/raghav-dubey-avid/Cat_Dog_Classifier_Using_Flutter/blob/2b35419f7198013dc226291bf3f2cdc71d70ac62/screenshot_Cat_dog_classifier/Screenshot_20210425-223453.jpg)
 
 
 
