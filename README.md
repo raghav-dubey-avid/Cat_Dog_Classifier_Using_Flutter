@@ -1,6 +1,12 @@
 # cat_dog_classifier
 
-A new Flutter application.
+A flutter application which basically classifies cats and dogs on the basis of the picture provided to it.
+
+It uses deep learning to analyze the data sets used from tensorflow.
+
+We used different libraries to configure with the datasets provided, and the accuracy it gives is more than 90%.
+
+Check the screenshots which are provided below
 
 ## Getting Started
 
